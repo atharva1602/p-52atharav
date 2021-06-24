@@ -1,0 +1,29 @@
+.header{
+    background-color:yellow;
+    display:flex;
+    justify-content: space-between;
+}
+.game{
+    background-color: teal;
+    display: flex;
+    justify-content:space-evenly;
+}
+p{
+    text-align: center;
+}
+body{
+       background-color: #150150
+
+}
+h1{
+    margin-Left:20px;
+}
+.menu p{
+    margin-Right:20px;
+}
+.menu p {
+    margin-Left:20px;
+    }
+.menu p {
+        margin-Left:20px;
+        }
